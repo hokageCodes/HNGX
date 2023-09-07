@@ -1,6 +1,6 @@
 # STAGE ONE TASK
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Live Link]("https://hngx-stage-one.netlify.app")
 
 
 
